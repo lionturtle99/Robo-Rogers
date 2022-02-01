@@ -31,7 +31,9 @@ _Takes inputted number and returns it's value from 0-x but replacing any number 
 
 ## Setup/Installation Requirements
 
-* _To download onto your personal device: Click the green "Code" button in the top right of the github repository, from the dropdown, select the "Download Zip" option, Once the file has finished downloading, navigate to your computers downloads and right click, select open with Archive Utility for macs (or whatever un-compress application your computer has), open file directory and open index.html in your browser or text editor application._
+* _To download onto your personal device: Click the green "Code" button in the top right of the github repository, from the dropdown, select the "Download Zip" option, Once the file has finished downloading, navigate to your computers downloads and right click, select open with Archive Utility for macs (or whatever un-compress application your computer has), open file directory and open index.html in your browser or text editor application._  
+
+* _To see the live sight hosted on github pages follow this [link](https://lionturtle99.github.io/Robo-Rogers/)_
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
